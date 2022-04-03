@@ -1,0 +1,57 @@
+
+.encabezado{
+  background-color: #ff4400;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;  
+  border-radius: 10px;
+  width: 150px;
+  height: 25px;
+  margin-left: 60px;  
+  position: relative;
+  z-index: 5;
+}
+
+.nombre-pokemon{
+  font-weight: bold;
+  font-size: large;
+  text-align: center;
+  padding-top: 5px;
+}
+
+.card {  
+  position: relative;
+  margin-top: -17px;
+  margin-left: 10px;
+  width: 250px;
+  height: 350px;
+  display: inline-block;
+  background-color: #ff8b01;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;  
+  border-radius: 10px;
+  color: #ffff00;
+  
+}
+
+
+
+.description{  
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-bottom: 0.2em;
+  padding-top: 1.1em;
+  font-size: 0.72em;
+  font-weight: 800;
+  text-align: justify;
+  color: black; 
+  
+}
+
+#pikachu{
+  height: 140px;
+  width: 140px ;
+  padding-left:55px ;
+  padding-top: 40px;
+}
